@@ -36,5 +36,5 @@ Coverage reports will be located at ```/target/site/jacoco/index.html```
 
 #### Uml Diagram Of Store-Discounts
 <p align="center">
-<img src="https://github.com/hasangurbuzz/cat-breeds/blob/master/uml/diagram.png" width="800" >
+<img src="https://github.com/hasangurbuzz/store-discounts/blob/master/uml/diagram.png" width="800" >
 </p>
